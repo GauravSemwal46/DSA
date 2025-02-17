@@ -6,3 +6,4 @@ Practicing DSA Problems
 3. Two Sum Problem
 4. Valid Palindrome
 5. Top k Frequent Element in an array.
+6. Product of array except self.
