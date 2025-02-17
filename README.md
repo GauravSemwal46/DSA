@@ -5,3 +5,4 @@ Practicing DSA Problems
 2. Valid Anagram
 3. Two Sum Problem
 4. Valid Palindrome
+5. Top k Frequent Element in an array.
