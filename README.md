@@ -7,3 +7,6 @@ Practicing DSA Problems
 4. Valid Palindrome
 5. Top k Frequent Element in an array.
 6. Product of array except self.
+7. Valid Parenthesis
+8. Min Stack Implementation
+9. Grouped Anagrams
