@@ -10,3 +10,6 @@ Practicing DSA Problems
 7. Valid Parenthesis
 8. Min Stack Implementation
 9. Grouped Anagrams
+10. Binary Search Algorithm
+11. Search in 2D matrix
+12. Best time to buy and sell stock.
