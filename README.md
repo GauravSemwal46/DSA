@@ -13,3 +13,6 @@ Practicing DSA Problems
 10. Binary Search Algorithm
 11. Search in 2D matrix
 12. Best time to buy and sell stock.
+13. Two Sum II on a sorted array
+14. Container with most water
+15. Reversed Linked List
