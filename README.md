@@ -16,3 +16,6 @@ Practicing DSA Problems
 13. Two Sum II on a sorted array
 14. Container with most water
 15. Reversed Linked List
+16. Evaluate reverse polish notation
+17. Merge two sorted linked list
+18. cycle detection in a linked list
