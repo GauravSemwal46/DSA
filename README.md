@@ -19,3 +19,6 @@ Practicing DSA Problems
 16. Evaluate reverse polish notation
 17. Merge two sorted linked list
 18. cycle detection in a linked list
+19. Quick Sort
+20. Merge Sort
+21. Three Sum Problem
