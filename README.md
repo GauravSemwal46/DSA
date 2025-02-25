@@ -22,3 +22,6 @@ Practicing DSA Problems
 19. Quick Sort
 20. Merge Sort
 21. Three Sum Problem
+22. Generate Parenthesis
+23. Remove Nth node from the end of the list
+24. Daily temperature
