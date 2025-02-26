@@ -32,6 +32,10 @@ func searchBruteForce(nums: [Int], target: Int) -> Int {
 searchBruteForce(nums: input, target: target)
 
 // Binary Search
+/*
+ Time Complexity - O(logn)
+ Space Complexity - O(1)
+ */
 func binarySearch(nums: [Int], target: Int) -> Int {
     var left = 0
     var right = nums.count - 1
