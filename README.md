@@ -25,3 +25,5 @@ Practicing DSA Problems
 22. Generate Parenthesis
 23. Remove Nth node from the end of the list
 24. Daily temperature
+25. Minimum in a rotated sorted array
+26. Search in a rotated sorted array
