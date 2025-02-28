@@ -29,3 +29,5 @@ Practicing DSA Problems
 26. Search in a rotated sorted array
 27. longest substring without repeating character
 28. Encode and decode string
+29. Longest consecutive sequence in an array
+30. Reorder list
