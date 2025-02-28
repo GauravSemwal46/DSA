@@ -27,3 +27,5 @@ Practicing DSA Problems
 24. Daily temperature
 25. Minimum in a rotated sorted array
 26. Search in a rotated sorted array
+27. longest substring without repeating character
+28. Encode and decode string
