@@ -31,3 +31,4 @@ Practicing DSA Problems
 28. Encode and decode string
 29. Longest consecutive sequence in an array
 30. Reorder list
+31. Koko eating bananas
